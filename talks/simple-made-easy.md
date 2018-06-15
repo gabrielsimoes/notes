@@ -1,4 +1,14 @@
-# Simple Made Easy - Rich Hickey
+---
+title: Notes on "Simple Made Easy" by Rich Hickey
+subtitle: A talk on functional programming ideas by Rich Hickey. Simple != Easy.
+date: 2018-05-29
+tags:
+  - clojure
+  - functional-programming
+  - talks
+---
+
+# Notes on "Simple Made Easy" by Rich Hickey
 
 - We should aim for simplicity because simplicity is a prerequisite for reliability.
 - Simple != Easy.

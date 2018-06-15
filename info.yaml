@@ -1,0 +1,48 @@
+name: Gabriel Simões  
+fullname: Gabriel Silva Simões
+occupation: Software Developer
+sitedescription: My personal blog about software development and more.
+email: simoes.sgabriel@gmail.com
+site: gabrielsimoes.github.io
+place: Indiana, USA
+github: gabrielsimoes
+facebook: simoes.sgabriel
+
+about: >
+  I'm pragmatic and unafraid of challenges.
+  I like to write efficient and meaningful code.
+hobbies: [gaming, music, reading]
+
+education:
+  - what: B.S. in Computer Science
+    where: University of Notre Dame
+    start: 2018-08-20
+    // end:
+    // gpa:
+
+work:
+ - what: Freelance
+   start: 2017-01-01
+   end: 2018-07-01
+
+languages:
+  - what: English
+    level: Fluent
+  - what: Portuguese
+    level: Native
+
+skills:
+  - C/C++
+  - Go
+  - Clojure
+  - JavaScript
+  - Node.js
+  - HTML 5, CSS 3
+  - Pug, SCSS
+  - JQuery
+  - Bootstrap 4
+  - Gulp
+
+projects:
+  - what: OBIJudge
+    desc: A local programming contest judge with Cgroup-based sandboxing.

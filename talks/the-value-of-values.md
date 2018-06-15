@@ -1,4 +1,14 @@
-# The Value of Values - Rich Hickey
+---
+title: Notes on "The Value of Values" by Rich Hickey
+subtitle: A talk by Rich Hickey about using immutable values over "places".
+date: 2018-05-30
+tags:
+  - clojure
+  - functional-programming
+  - talks
+---
+
+# Notes on "The Value of Values" by Rich Hickey
 
 - *Values x Places*
 - *Place has no role in an information model*, only in implementation

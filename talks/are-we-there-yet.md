@@ -1,4 +1,17 @@
-# Are We There Yet? - Rich Hickey
+---
+title: Notes on "Are We There Yet?" by Rich Hickey
+subtitle: >
+  Amazing talk by Rich Hickey on fundamental Clojure and Functional Programming
+  concurrency concepts.
+date: 2018-06-07
+image: /books/are-we-there-yet-epochal-time-model.png
+tags:
+  - clojure
+  - functional-programming
+  - talks
+---
+
+# Notes on "Are We There Yet?" by Rich Hickey
 
 ## Introduction
 

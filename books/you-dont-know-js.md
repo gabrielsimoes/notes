@@ -1,8 +1,18 @@
-# You Don't Know JS
+---
+title: Notes on "You Don't Know JS" by Kyle Simpson
+subtitle: A great book for learning JS internals.
+date: 2018-06-07
+image: /books/you-dont-know-js.png
+tags:
+  - javascript
+  - books
+---
 
-Very good book for learning JS internals. The best way to understand and avoid
-language "gotchas" is by understanding what causes them. It's also a great book
-to learn how to optimize your JS programs with very little effort.
+# Notes on "You Don't Know JS" by Kyle Simpson
+
+The best way to understand and avoid language "gotchas" is by understanding what
+causes them. It's also a great book to learn how to optimize your JS programs
+with very little effort.
 
 I have written a good amount of notes over all the six books. Some may find
 these too details, some might find them too shallow. Either way, those notes
@@ -11,7 +21,7 @@ more effectively and quickly review some details.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [You Don't Know JS](#you-dont-know-js)
+- [Notes on "You Don't Know JS" by Kyle Simpson](#notes-on-you-dont-know-js-by-kyle-simpson)
   - [Up & Going](#up-going)
   - [Scope & Closures](#scope-closures)
     - [Scope and Lexical Scope](#scope-and-lexical-scope)
@@ -23,7 +33,7 @@ more effectively and quickly review some details.
     - [Objects](#objects)
     - [Mixins](#mixins)
     - [Prototypes](#prototypes)
-    - [Behavior Delegation/OLOO (objects-linked-to-other-objects)](#behavior-delegationoloo-objects-linked-to-other-objects)
+    - [Behavior Delegation/OLOO (objects-linked-to-other-objects)](#behavior-delegation-oloo-objects-linked-to-other-objects)
     - [ES6 `class`](#es6-class)
   - [Types & Grammar](#types-grammar)
     - [Types](#types)
@@ -37,9 +47,12 @@ more effectively and quickly review some details.
     - [Coercion](#coercion)
       - [Explicit Coercion](#explicit-coercion)
       - [Implicit Coercion](#implicit-coercion)
-      - [Loose/Strict Equals](#loosestrict-equals)
+      - [Loose/Strict Equals](#loose-strict-equals)
     - [Grammar](#grammar)
   - [Async & Performance](#async-performance)
+    - [Async](#async)
+    - [Performance](#performance)
+  - [ES6 & Beyond](#es6-beyond)
 
 <!-- /TOC -->
 
@@ -364,8 +377,8 @@ Always use the `"use strict";` in your code. Keeps code safer and optimized.
               value: o[k[i++]],
               done: (i > k.length)
             };
-          }xdsxdd
-        };sdxdxdxdx
+          }
+        };
       }
     });
     ```
@@ -662,7 +675,7 @@ Always use the `"use strict";` in your code. Keeps code safer and optimized.
   var a = new Boolean(false);
   var b = new Number(0);
   var c = new String("");
-```
+  ```
 
 #### Explicit Coercion
 
@@ -672,7 +685,7 @@ Always use the `"use strict";` in your code. Keeps code safer and optimized.
   - `parseInt(..)` and `parseFloat(..)` are tolerant to non-numeric characters.
   - Date --> Number: works the same way, the result is the unix timestamp.
     - A explicit approach is better: `.getTime()`. or `Date.now()` (ES5).
-- *** --> Boolean**: `!!x` or `Boolean(..)` (former is preferred)
+- **--> Boolean**: `!!x` or `Boolean(..)` (former is preferred)
 
 #### Implicit Coercion
 

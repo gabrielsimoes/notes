@@ -1,4 +1,13 @@
-# Hammock Driven Programming - Rich Hickey
+---
+title: Notes on "Hammock Driven Programming" by Rich Hickey
+subtitle: Or how to solve problems/design programs/avoid bugs by Rich Hickey
+date: 2018-05-28
+tags:
+  - random
+  - talks
+---
+
+# Notes on "Hammock Driven Programming" by Rich Hickey
 
 - Bugs are much cheaper to solve during design.
 - _Solve Problem_ x _Create Features_
