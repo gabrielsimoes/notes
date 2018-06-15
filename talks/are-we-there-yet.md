@@ -4,7 +4,7 @@ subtitle: >
   Amazing talk by Rich Hickey on fundamental Clojure and Functional Programming
   concurrency concepts.
 date: 2018-06-07
-image: /books/are-we-there-yet-epochal-time-model.png
+image: /talks/are-we-there-yet-epochal-time-model.png
 tags:
   - clojure
   - functional-programming
