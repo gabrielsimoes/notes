@@ -86,7 +86,7 @@ tags:
 
 ## Agents as a Time Construct
 
-![Agents](are-we-ther-yet-agents.png)
+![Agents](are-we-there-yet-agents.png)
 
 - Uncoordinated 1:1.
 - Replaces state based on a queue through a thread pool.
