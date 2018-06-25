@@ -1,10 +1,10 @@
-name: Gabriel Simões  
+name: Gabriel Simões
 fullname: Gabriel Silva Simões
 occupation: Software Developer
 sitedescription: My personal blog about software development and more.
 email: simoes.sgabriel@gmail.com
 site: gabrielsimoes.github.io
-place: Indiana, USA
+place: São Paulo, Brazil
 github: gabrielsimoes
 facebook: simoes.sgabriel
 
@@ -21,7 +21,7 @@ education:
     // gpa:
 
 work:
- - what: Freelance
+ - what: Freelancing
    start: 2017-01-01
    end: 2018-07-01
 

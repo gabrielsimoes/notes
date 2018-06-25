@@ -1,27 +1,27 @@
 watched:
   - title: Are We There Yet?
     author: Rich Hickey
-    date: 2009-11-12
     url: https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey
-    when: 2018-05-20
+    date: 2018-05-20
+    rating: 5
     notes: are-we-there-yet
   - title: Hammock Driven Programming
     author: Rich Hickey
-    date: 2010-10-23
     url: https://www.youtube.com/watch?v=f84n5oFoZBc
-    when: 2018-05-28
+    date: 2018-05-28
+    rating: 3
     notes: hammock-driven-programming
   - title: Simple Made Easy
     author: Rich Hickey
-    date: 2011-10-20
     url: https://www.infoq.com/presentations/Simple-Made-Easy
-    when: 2018-05-29
+    date: 2018-05-29
+    rating: 4
     notes: simple-made-easy
   - title: The Value of Values
     author: Rich Hickey
-    date: 2012-08-14
     url: https://www.infoq.com/presentations/Value-Values
-    when: 2018-05-30
+    date: 2018-05-30
+    rating: 4
     notes: the-value-of-values
 
 to-watch:
