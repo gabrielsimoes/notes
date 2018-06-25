@@ -8,8 +8,6 @@ tags:
   - talks
 ---
 
-# Notes on "Simple Made Easy" by Rich Hickey
-
 - We should aim for simplicity because simplicity is a prerequisite for reliability.
 - Simple != Easy.
   - "Easy" means "to be at hand", "to be approachable".

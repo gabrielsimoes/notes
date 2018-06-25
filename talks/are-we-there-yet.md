@@ -11,8 +11,6 @@ tags:
   - talks
 ---
 
-# Notes on "Are We There Yet?" by Rich Hickey
-
 ## Introduction
 
 - All OO languages have fundamental things in common:

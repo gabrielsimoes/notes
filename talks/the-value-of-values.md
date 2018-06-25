@@ -8,8 +8,6 @@ tags:
   - talks
 ---
 
-# Notes on "The Value of Values" by Rich Hickey
-
 - *Values x Places*
 - *Place has no role in an information model*, only in implementation
 - Values are:

@@ -4,4 +4,3 @@ date: 2018-06-16
 draft: true
 ---
 
-# Generating a static site with Gulp

@@ -8,8 +8,6 @@ tags:
   - books
 ---
 
-# Notes on "You Don't Know JS" by Kyle Simpson
-
 The best way to understand and avoid language "gotchas" is by understanding what
 causes them. It's also a great book to learn how to optimize your JS programs
 with very little effort.
@@ -19,40 +17,39 @@ these too details, some might find them too shallow. Either way, those notes
 cover the whole book series and are meant as a review, so I can learn things
 more effectively and quickly review some details.
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Notes on "You Don't Know JS" by Kyle Simpson](#notes-on-you-dont-know-js-by-kyle-simpson)
-	- [Up & Going](#up-going)
-	- [Scope & Closures](#scope-closures)
-		- [Scope and Lexical Scope](#scope-and-lexical-scope)
-		- [Function and Block Scopes](#function-and-block-scopes)
-		- [Closures](#closures)
-		- [Arrow Functions (ES6)](#arrow-functions-es6)
-	- [`this` & Object Prototypes](#this-object-prototypes)
-		- [`this`](#this)
-		- [Objects](#objects)
-		- [Mixins](#mixins)
-		- [Prototypes](#prototypes)
-		- [Behavior Delegation/OLOO (objects-linked-to-other-objects)](#behavior-delegationoloo-objects-linked-to-other-objects)
-		- [ES6 `class`](#es6-class)
-	- [Types & Grammar](#types-grammar)
-		- [Types](#types)
-		- [Values](#values)
-			- [Arrays](#arrays)
-			- [Strings](#strings)
-			- [Numbers](#numbers)
-			- [`void` operator](#void-operator)
-			- [Value vs. Reference](#value-vs-reference)
-		- [Natives](#natives)
-		- [Coercion](#coercion)
-			- [Explicit Coercion](#explicit-coercion)
-			- [Implicit Coercion](#implicit-coercion)
-			- [Loose/Strict Equals](#loosestrict-equals)
-		- [Grammar](#grammar)
-	- [Async & Performance](#async-performance)
-		- [Async](#async)
-		- [Performance](#performance)
-	- [ES6 & Beyond](#es6-beyond)
+- [Up & Going](#up-going)
+- [Scope & Closures](#scope-closures)
+	- [Scope and Lexical Scope](#scope-and-lexical-scope)
+	- [Function and Block Scopes](#function-and-block-scopes)
+	- [Closures](#closures)
+	- [Arrow Functions (ES6)](#arrow-functions-es6)
+- [`this` & Object Prototypes](#this-object-prototypes)
+	- [`this`](#this)
+	- [Objects](#objects)
+	- [Mixins](#mixins)
+	- [Prototypes](#prototypes)
+	- [Behavior Delegation/OLOO (objects-linked-to-other-objects)](#behavior-delegationoloo-objects-linked-to-other-objects)
+	- [ES6 `class`](#es6-class)
+- [Types & Grammar](#types-grammar)
+	- [Types](#types)
+	- [Values](#values)
+		- [Arrays](#arrays)
+		- [Strings](#strings)
+		- [Numbers](#numbers)
+		- [`void` operator](#void-operator)
+		- [Value vs. Reference](#value-vs-reference)
+	- [Natives](#natives)
+	- [Coercion](#coercion)
+		- [Explicit Coercion](#explicit-coercion)
+		- [Implicit Coercion](#implicit-coercion)
+		- [Loose/Strict Equals](#loosestrict-equals)
+	- [Grammar](#grammar)
+- [Async & Performance](#async-performance)
+	- [Async](#async)
+	- [Performance](#performance)
+- [ES6 & Beyond](#es6-beyond)
 
 <!-- /TOC -->
 

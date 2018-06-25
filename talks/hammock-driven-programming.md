@@ -7,8 +7,6 @@ tags:
   - talks
 ---
 
-# Notes on "Hammock Driven Programming" by Rich Hickey
-
 - Bugs are much cheaper to solve during design.
 - _Solve Problem_ x _Create Features_
 - Features are results, not objectives.
