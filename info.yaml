@@ -11,26 +11,6 @@ facebook: simoes.sgabriel
 about: >
   I'm pragmatic and unafraid of challenges.
   I like to write efficient and meaningful code.
-hobbies: [gaming, music, reading]
-
-education:
-  - what: B.S. in Computer Science
-    where: University of Notre Dame
-    start: 2018-08-20
-    // end:
-    // gpa:
-
-work:
- - what: Freelancing
-   start: 2017-01-01
-   end: 2018-07-01
-
-languages:
-  - what: English
-    level: Fluent
-  - what: Portuguese
-    level: Native
-
 skills:
   - C/C++
   - Go
@@ -42,7 +22,43 @@ skills:
   - JQuery
   - Bootstrap 4
   - Gulp
+hobbies: [gaming, music, reading]
+
+education:
+  - what: B.S. in Computer Science
+    where: University of Notre Dame
+    start: 2018-08-20
+    end: 2022-05-01
+    extra: "GPA: -"
+
+work:
+  - what: Freelancing
+    start: 2017-01-01
+    end: 2018-07-01
+    extra: Full-Stack Web Development
+
+languages:
+  - what: English
+    level: Fluent
+  - what: Portuguese
+    level: Native
+
+awards:
+  international:
+    - what: 30th International Olympiad in Informatics
+      where: Japan
+      when: 2018-09-01
+    - what: 29th International Olympiad in Informatics
+      where: Iran
+      when: 2017-07-28
+  domestic: []
 
 projects:
   - what: OBIJudge
-    desc: A local programming contest judge with Cgroup-based sandboxing.
+    url: https://github.com/gabrielsimoes/OBIJudge
+    extra: A local programming contest judge with Cgroup-based sandboxing.
+  - what: gabrielsimoes.github.io
+    url: https://github.com/gabrielsimoes/gabrielsimoes.github.io
+    extra: >
+      My website and CV. Generated from markdown using the Pug templating
+      engine, the Gulp automation toolkit and more.
