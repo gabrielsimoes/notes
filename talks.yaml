@@ -23,5 +23,11 @@ watched:
     date: 2018-05-30
     rating: 4
     notes: the-value-of-values
+  - title: The Impedance Mismatch is Our Fault
+    author: Stuart Halloway
+    url: https://www.infoq.com/presentations/Impedance-Mismatch
+    date: 2018-06-26
+    rating: 3
+    notes: object-relational-impedance-mismatch
 
 to-watch: []
