@@ -1,4 +1,12 @@
-# Object-relational impedance mismatch
+---
+title:  Object-relational impedance mismatch
+subtitle: An attempt to get this right.
+date: 2018-06-26
+tags:
+  - databases
+  - functional-programming
+  - talks
+---
 
 This is smart name we came up to call the difficulties that arise when we try to
 couple together a RDBMS (namely SQL), and a Object-Oriented Language. We'll
