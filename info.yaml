@@ -4,61 +4,65 @@ occupation: Software Developer
 sitedescription: My personal blog about software development and more.
 email: simoes.sgabriel@gmail.com
 site: gabrielsimoes.github.io
-place: São Paulo, Brazil
+place: 'Indiana, US'
 github: gabrielsimoes
+linkedin: simoessgabriel
 facebook: simoes.sgabriel
-
 about: >
-  I'm pragmatic and unafraid of challenges.
-  I like to write efficient and meaningful code.
+  I'm pragmatic and unafraid of challenges. I like to write efficient and
+  meaningful code.
 skills:
   - C/C++
   - Go
   - Clojure
   - JavaScript
   - Node.js
-  - HTML 5, CSS 3
-  - Pug, SCSS
-  - JQuery
-  - Bootstrap 4
-  - Gulp
-hobbies: [gaming, music, reading]
-
+  - Bash
+  - SQL
+  - HTML/CSS
+  - Linux
+  - Knowledge in Agile methods (XP)
+hobbies:
+  - gaming
+  - music
+  - reading
 education:
   - what: B.S. in Computer Science
     where: University of Notre Dame
-    start: 2018-08-20
-    end: 2022-05-01
-    extra: "GPA: -"
-
+    start: 2018-08-20T00:00:00.000Z
+    end: 2022-05-01T00:00:00.000Z
+    extra: 'GPA: -'
 work:
   - what: Freelancing
-    start: 2017-01-01
-    end: 2018-07-01
+    start: 2017-01-01T00:00:00.000Z
+    end: 2018-07-01T00:00:00.000Z
     extra: Full-Stack Web Development
-
 languages:
   - what: English
     level: Fluent
   - what: Portuguese
     level: Native
-
 awards:
   international:
-    - what: 30th International Olympiad in Informatics
+    - what: 30th International Olympiad in Informatics (IOI)
       where: Japan
-      when: 2018-09-01
-    - what: 29th International Olympiad in Informatics
+      when: 2018-09-01T00:00:00.000Z
+      extra: Silver medal
+    - what: 29th International Olympiad in Informatics (IOI)
       where: Iran
-      when: 2017-07-28
+      when: 2017-07-28T00:00:00.000Z
+      extra: 197th out of 300
   domestic: []
-
 projects:
   - what: OBIJudge
-    url: https://github.com/gabrielsimoes/OBIJudge
-    extra: A local programming contest judge with Cgroup-based sandboxing.
-  - what: gabrielsimoes.github.io
-    url: https://github.com/gabrielsimoes/gabrielsimoes.github.io
+    url: 'https://github.com/gabrielsimoes/OBIJudge'
     extra: >
-      My website and CV. Generated from markdown using the Pug templating
-      engine, the Gulp automation toolkit and more.
+      A local programming contests judging system. Features sandboxing based on
+      Linux control groups, a backend server implemented in Go, and a web
+      interface.
+  - what: gabrielsimoes.github.io
+    url: 'https://github.com/gabrielsimoes/gabrielsimoes.github.io'
+    extra: >
+      My personal website. Features a system of automatic generation and
+      deployment developed from scratch using the Pug templating engine, the
+      SCSS preprocessor, the Gulp automation toolkit and more.
