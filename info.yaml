@@ -8,61 +8,86 @@ place: 'Indiana, US'
 github: gabrielsimoes
 linkedin: simoessgabriel
 facebook: simoes.sgabriel
-about: >
-  I'm pragmatic and unafraid of challenges. I like to write efficient and
-  meaningful code.
+phone: +1 574 855 7138
+about:
+  - I'm currently a student at the University of Notre Dame, pursuing a major
+    in Computer Science.
+  - I have developed a passion for Computer Science out of an extensive
+    participation in algorithmic competitions and from actively learning
+    software development by working on personal projects.
+  - I have a focused mindset and am constantly looking for new challenges.
+  - I am currently looking for internship opportunities related to software
+    development.
 skills:
-  - C/C++
+  - C/C++ (4 years focused on competitive programming)
   - Go
   - Clojure
   - JavaScript
-  - Node.js
   - Bash
   - SQL
   - HTML/CSS
   - Linux
+  - Git
   - Knowledge in Agile methods (XP)
-hobbies:
-  - gaming
-  - music
-  - reading
 education:
   - what: B.S. in Computer Science
     where: University of Notre Dame
-    start: 2018-08-20T00:00:00.000Z
-    end: 2022-05-01T00:00:00.000Z
-    extra: 'GPA: -'
+    start: Aug 2018
+    end: May 2022
 work:
   - what: Freelancing
-    start: 2017-01-01T00:00:00.000Z
-    end: 2018-07-01T00:00:00.000Z
-    extra: Full-Stack Web Development
+    start: Jan 2018
+    end: Jul 2018
+    extra:
+      - >
+        Worked mainly in the development of web solutions for small clients,
+        implementing both the front end and the back end in PHP or Node.js,
+        using SQL databases to store the application data.
+      - >
+        Acquired experience in costumer relations, project management and
+        dealing with requirements and deadlines.
 languages:
   - what: English
     level: Fluent
   - what: Portuguese
     level: Native
 awards:
-  international:
-    - what: 30th International Olympiad in Informatics (IOI)
-      where: Japan
-      when: 2018-09-01T00:00:00.000Z
-      extra: Silver medal
-    - what: 29th International Olympiad in Informatics (IOI)
-      where: Iran
-      when: 2017-07-28T00:00:00.000Z
-      extra: 197th out of 300
-  domestic: []
+  - what: 30th International Olympiad in Informatics (IOI)
+    where: Japan
+    when: 2018
+    extra: Silver medal
+  - what: 29th International Olympiad in Informatics (IOI)
+    where: Iran
+    when: 2017
+    extra: 197th out of 300
+  - what: Ibero-American Olympiad in Informatics (CIIC) 2018
+    when: 2018
+    extra: Gold medal
+  - what: Ibero-American Olympiad in Informatics (CIIC) 2017
+    when: 2017
+    extra: Gold medal (first place)
+  - what: National olympiads in Informatics, Mathematics, Physics, Chemistry and Astronomy
+    where: Brazil
+    start: 2015
+    end: 2017
+    extra: Various medals
 projects:
   - what: OBIJudge
     url: 'https://github.com/gabrielsimoes/OBIJudge'
     extra: >
       A local programming contests judging system. Features sandboxing based on
-      Linux control groups, a backend server implemented in Go, and a web
+      Linux control groups, a back end server implemented in Go, and a web
       interface.
+  - what: re-frame-firebase
+    url: 'https://github.com/deg/re-frame-firebase'
+    extra: >
+      A Clojure framework that integrates Google Firebase
+      with the ClojureScript compiler. I was responsible for completely
+      refactoring the code and integrating it with a fully new version of
+      Firebase.
   - what: gabrielsimoes.github.io
     url: 'https://github.com/gabrielsimoes/gabrielsimoes.github.io'
     extra: >
       My personal website. Features a system of automatic generation and
-      deployment developed from scratch using the Pug templating engine, the
-      SCSS preprocessor, the Gulp automation toolkit and more.
+      deployment developed from scratch using Node.js, the Pug templating
+      engine, the SCSS preprocessor, the Gulp automation toolkit and more.
