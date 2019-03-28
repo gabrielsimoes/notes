@@ -1,10 +1,10 @@
 name: Gabriel Simões
 fullname: Gabriel Silva Simões
-occupation: Software Developer
+occupation: CS Student at Notre Dame
 sitedescription: My personal blog about software development and more.
 email: simoes.sgabriel@gmail.com
 site: gabrielsimoes.github.io
-place: 'Indiana, US'
+place: "Indiana, US"
 address: >
   135 Duncan Hall<br />
   Notre Dame, IN 46556
@@ -12,31 +12,42 @@ github: gabrielsimoes
 linkedin: simoessgabriel
 facebook: simoes.sgabriel
 phone: +1 574 855 7138
+websiteinfo:
+  - "Welcome to my personal website! I am a Computer Science student at the University of Notre Dame. I am very passionate about what I do."
+  - "If you are interested in getting to know me, please take a look at the \"About Me\" page or at my CV (links at the top of the page)."
+  - "I do my best at maintaining a nice blog about my adventures in technology at the \"Blog\" page, feel free to check that out as well."
+  - "Also, you can find me in the following:"
 about:
-  - I'm currently a student at the University of Notre Dame, pursuing a major
+  - I am currently a student at the University of Notre Dame, pursuing a major
     in Computer Science.
   - I have developed a passion for Computer Science out of an extensive
     participation in algorithmic competitions and from actively learning
-    software development by working on personal projects.
+    software development by working on personal and open source projects.
   - I have a focused mindset and am constantly looking for new challenges.
   - I am currently looking for internship opportunities related to software
     development.
 skills:
-  - C/C++ (4 years focused on competitive programming)
+  - C/C++
   - Go
   - Clojure
   - JavaScript
   - Bash
   - SQL
-  - HTML/CSS
+  - HTML
+  - CSS
   - Linux
   - Git
   - Knowledge in Agile methods (XP)
+  - Microsoft Office
 education:
-  - what: B.S. in Computer Science
-    where: University of Notre Dame
+  - what: University of Notre Dame
+    where: Notre Dame, IN
     start: Aug 2018
     end: May 2022
+    extra:
+      - "Bachelor of Science - Major: Computer Science"
+      - "GPA: 4.0 (Dean's Honor List)"
+      - "ND Computer Science gives one the skills to specify, design, and implement software and/or hardware-software systems, from networks and databases to websites and mobile apps, and the ability to apply knowledge of science and mathematics to such tasks."
 work:
   - what: Freelancing
     start: Jan 2018
@@ -54,43 +65,52 @@ languages:
     level: Fluent
   - what: Portuguese
     level: Native
+  - what: Spanish
+    level: Beginner
 awards:
+  - what: 'AT&T Irish Hacks Hackathon'
+    where: University of Notre Dame
+    when: 2018
+    extra: Pariveda Solutions Prize - Best Underclassmen-led Project
   - what: 30th International Olympiad in Informatics (IOI)
     where: Japan
     when: 2018
-    extra: Silver medal
+    inlineextra: Silver medal
+    extra:
+      - Most prestigious international Computer Science competition for High School students.
+      - Challenges often involved advanced knowledge in algorithms and data structures.
+  - what: Ibero-American Olympiad in Informatics (CIIC) 2018
+    when: 2018
+    inlineextra: Gold medal
   - what: 29th International Olympiad in Informatics (IOI)
     where: Iran
     when: 2017
-    extra: 197th out of 300
-  - what: Ibero-American Olympiad in Informatics (CIIC) 2018
-    when: 2018
-    extra: Gold medal
+    inlineextra: 197th out of 300
   - what: Ibero-American Olympiad in Informatics (CIIC) 2017
     when: 2017
-    extra: Gold medal (first place)
+    inlineextra: Gold medal (first place)
   - what: National olympiads in Informatics, Mathematics, Physics, Chemistry and Astronomy
     where: Brazil
     start: 2015
     end: 2017
-    extra: Various medals
+    inlineextra: Various medals
 projects:
   - what: OBIJudge
-    url: 'https://github.com/gabrielsimoes/OBIJudge'
+    url: "https://github.com/gabrielsimoes/OBIJudge"
     extra: >
       A local programming contests judging system. Features sandboxing based on
-      Linux control groups, a back end server implemented in Go, and a web
+      Linux control groups, back end server implemented in Go, and web
       interface.
   - what: re-frame-firebase
-    url: 'https://github.com/deg/re-frame-firebase'
+    url: "https://github.com/deg/re-frame-firebase"
     extra: >
       A Clojure framework that integrates Google Firebase
       with the ClojureScript compiler. I was responsible for completely
-      refactoring the code and integrating it with a fully new version of
+      refactoring the code and integrating it with a new version of
       Firebase.
   - what: gabrielsimoes.github.io
-    url: 'https://github.com/gabrielsimoes/gabrielsimoes.github.io'
+    url: "https://github.com/gabrielsimoes/gabrielsimoes.github.io"
     extra: >
       My personal website. Features a system of automatic generation and
-      deployment developed from scratch using Node.js, the Pug templating
-      engine, the SCSS preprocessor, the Gulp automation toolkit and more.
+      deployment developed from scratch using Node.js, Pug templating
+      engine, SCSS preprocessor, Gulp automation toolkit and more.
