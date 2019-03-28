@@ -12,10 +12,8 @@ The best way to understand and avoid language "gotchas" is by understanding what
 causes them. It's also a great book to learn how to optimize your JS programs
 with very little effort.
 
-I have written a good amount of notes over all the six books. Some may find
-these too details, some might find them too shallow. Either way, those notes
-cover the whole book series and are meant as a review, so I can learn things
-more effectively and quickly review some details.
+Those notes cover the whole book series and are meant as a review, so I can
+learn things more effectively and quickly review some details.
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -71,7 +69,7 @@ Always use the `"use strict";` in your code. Keeps code safer and optimized.
 
 - JavaScript compiles statements kind-of individually and shortly before they
   are executed. JS engines also use JIT, lazy compilation and hot compilation.
-- We can devide JavaScript compilation in three "characters": Engine, Compiler
+- We can devide JavaScript compilation in three "actors": Engine, Compiler
   and Scope.
 - Types of Scope look-ups:
   - *LHS*: when the variable is the target of the assignment. If it doesn't
