@@ -13,8 +13,6 @@ build it. I had heard about things like [Jekyll](https://jekyllrb.com/) and
 [Hugo](https://gohugo.io/), but I decided not to use them. Why? Well, using one
 of these tools isn't nearly as fun and rewarding as building it from scratch.
 
-![Gulp Logo](generating-a-static-blog-with-gulp.svg) {style="width: 150px; float: right;"}
-
 Also, I wanted to do a couple more non-standard things, such as using the same
 datasource to build a reading/watching list and my PDF resume. So I thought
 those tools wouldn't be aproppriate for that and I'd end up having to use two
@@ -23,6 +21,8 @@ different tools where I could use just one.
 ## Tools and project structure
 
 Now, let's talk about what I used:
+
+![Gulp Logo](generating-a-static-blog-with-gulp.svg) {style="width: 150px; float: right;"}
 
 - [Gulp](https://gulpjs.com/) for automating everything and wiring up the site
   generation. Gulp is also used to watch for changes while developing.
