@@ -6,6 +6,7 @@ tags:
   - databases
   - functional-programming
   - talks
+draft: true
 ---
 
 This is the smart name we came up to call the difficulties that arise when we

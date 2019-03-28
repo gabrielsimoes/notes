@@ -5,6 +5,7 @@ date: 2018-05-28
 tags:
   - random
   - talks
+draft: true
 ---
 
 - Bugs are much cheaper to solve during design.
