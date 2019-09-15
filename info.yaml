@@ -1,6 +1,6 @@
-name: Gabriel Simões
-fullname: Gabriel Silva Simões
-occupation: CS Student at Notre Dame
+name: Gabriel Simoes
+fullname: Gabriel Silva Simoes
+occupation: Computer Science student at Notre Dame
 sitedescription: My personal blog about software development and more.
 email: simoes.sgabriel@gmail.com
 site: gabrielsimoes.github.io
@@ -12,11 +12,6 @@ github: gabrielsimoes
 linkedin: simoessgabriel
 facebook: simoes.sgabriel
 phone: +1 574 855 7138
-websiteinfo:
-  - "Welcome to my personal website! I am a Computer Science student at the University of Notre Dame. I am very passionate about what I do."
-  - "If you are interested in getting to know me, please take a look at the \"About Me\" page or at my CV (links at the top of the page)."
-  - "I do my best at maintaining a nice blog about my adventures in technology at the \"Blog\" page, feel free to check that out as well."
-  - "Also, you can find me in the following:"
 about:
   - I am currently a student at the University of Notre Dame, pursuing a major
     in Computer Science.
@@ -28,35 +23,68 @@ about:
     development.
 skills:
   - C/C++
+  - "C#/.NET Framework"
   - Go
   - Clojure
-  - JavaScript
+  - Javascript
   - Bash
+  - Python
   - SQL
-  - HTML
-  - CSS
+  - HTML/CSS
   - Linux
-  - Git
+  - Advanced Git
   - Knowledge in Agile methods (XP)
   - Microsoft Office
+  - Microsoft Visual Studio
 education:
   - what: University of Notre Dame
     where: Notre Dame, IN
     start: Aug 2018
     end: May 2022
     extra:
-      - "Bachelor of Science - Major: Computer Science"
-      - "GPA: 4.0 (Dean's Honor List)"
-      - "ND Computer Science gives one the skills to specify, design, and implement software and/or hardware-software systems, from networks and databases to websites and mobile apps, and the ability to apply knowledge of science and mathematics to such tasks."
+      - "Bachelor of Science | Major: Computer Science"
+      - "GPA: 4.0 | Dean's Honor List"
+      # - "ND Computer Science gives one the skills to specify, design, and implement software and/or hardware-software systems, from networks and databases to websites and mobile apps, and the ability to apply knowledge of science and mathematics to such tasks."
 work:
+  - what: BTG Pactual
+    inlineextra: IT Summer Analyst
+    where: São Paulo, Brazil
+    when: Summer 2019
+    extra:
+      - >
+        Worked in the development of a large financial valuation application
+        while following agile principles in a team of 10 developers.
+      - >
+        Responsible for developing a series of features visible to users,
+        directly impacting user experience.
+      - >
+        Identified algorithmic and database optimizations, reducing a given
+        calculation's execution time and memory usage in up to 50% and
+        making other slow operations instantaneous to the user.
+      - >
+        Refactored a large grid system in C#/WinForms critical to the
+        application's maintenance, while preserving full backward
+        compatibility (reduced a 15000-line codebase in 56%).
+  - what: Academic Computing Operations
+    inlineextra: Student Assistant
+    where: Notre Dame, IN
+    start: Spring 2019
+    end: Present
+    extra:
+      - >
+        Responsible for operating and maintaining university academic computing
+        infrastructure, such as computer labs, clusters and printing system.
+      - >
+        Produced and refactored programs in Python and Perl used in daily
+        operations and monitoring.
   - what: Freelancing
-    start: Jan 2018
-    end: Jul 2018
+    inlineextra: Web Development
+    when: Spring 2018
     extra:
       - >
         Worked mainly in the development of web solutions for small clients,
-        implementing both the front end and the back end in PHP or Node.js,
-        using SQL databases to store the application data.
+        implementing both front end and back end in PHP or Node.js,
+        using SQL databases to store application data.
       - >
         Acquired experience in costumer relations, project management and
         dealing with requirements and deadlines.
@@ -65,8 +93,8 @@ languages:
     level: Fluent
   - what: Portuguese
     level: Native
-  - what: Spanish
-    level: Beginner
+  # - what: Spanish
+  #   level: Beginner
 awards:
   - what: 'AT&T Irish Hacks Hackathon'
     where: University of Notre Dame
@@ -75,25 +103,24 @@ awards:
   - what: 30th International Olympiad in Informatics (IOI)
     where: Japan
     when: 2018
-    inlineextra: Silver medal
     extra:
+      - "Performance: Silver Medalist"
       - Most prestigious international Computer Science competition for High School students.
-      - Challenges often involved advanced knowledge in algorithms and data structures.
-  - what: Ibero-American Olympiad in Informatics (CIIC) 2018
-    when: 2018
-    inlineextra: Gold medal
   - what: 29th International Olympiad in Informatics (IOI)
     where: Iran
     when: 2017
-    inlineextra: 197th out of 300
-  - what: Ibero-American Olympiad in Informatics (CIIC) 2017
-    when: 2017
-    inlineextra: Gold medal (first place)
-  - what: National olympiads in Informatics, Mathematics, Physics, Chemistry and Astronomy
-    where: Brazil
-    start: 2015
-    end: 2017
-    inlineextra: Various medals
+    extra: >
+      Performance: 197th out of 300 competitors
+  - what: Ibero-American Olympiad in Informatics (CIIC) 2017 and 2018
+    start: 2017
+    end: 2018
+    extra: >
+      Performance: Twice Gold Medalist
+  # - what: National olympiads in Informatics, Mathematics, Physics, Chemistry and Astronomy
+  #   where: Brazil
+  #   start: 2015
+  #   end: 2017
+  #   inlineextra: Various medals
 projects:
   - what: OBIJudge
     url: "https://github.com/gabrielsimoes/OBIJudge"
